@@ -19,10 +19,12 @@ After a fresh install/reset of Windows. Here are the recommended applications an
      
       *Paste in Elevated (Run as Administrator) PowerShell prompt:*  
       >``` iwr -useb https://christitus.com/win | iex```  
+      ![The Ultimate Windows Utility UI](UltimateDebloater.png)
    2. [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater): UI removes Windows pre-installed unnecessary applications  
 
       *Paste in Elevated (Run as Administrator) PowerShell prompt:*  
-      >``` iwr -useb https://git.io/debloat | iex``` 
+      >``` iwr -useb https://git.io/debloat | iex```
+      ![Windows10Debloater UI](Windows10Debloater.png) 
    
 	---
 5. Change Windows Mouse pointers: [Posy's improved cursors for Windows 10](http://www.michieldb.nl/other/cursors/)
