@@ -14,7 +14,15 @@ After a fresh install/reset of Windows. Here are the recommended applications an
    2. [EarTrumpet](https://eartrumpet.app/): A powerful volume control app for Windows
    3. [Discord](https://discord.com/): Talk, chat, hang out, and stay close with your friends and communities.
 	---
-4. Remove Windows bloatware:
-   1. *insert link*
+4. Windows Debloater Softwares:
+   1. [The Ultimate Windows Utility](https://christitus.com/windows-tool/): UI removes Windows pre-installed unnecessary applications, install software, and tweaks.  
+     
+      *Paste in Elevated (Run as Administrator) PowerShell prompt:*  
+      >``` iwr -useb https://christitus.com/win | iex```  
+   2. [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater): UI removes Windows pre-installed unnecessary applications  
+
+      *Paste in Elevated (Run as Administrator) PowerShell prompt:*  
+      >``` iwr -useb https://git.io/debloat | iex``` 
+   
 	---
 5. Change Windows Mouse pointers: [Posy's improved cursors for Windows 10](http://www.michieldb.nl/other/cursors/)
